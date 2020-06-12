@@ -8,7 +8,7 @@ Flutter Android SharedPreferences plugin.
 
 ```yaml
 dependencies:
-	sp: ^0.0.1
+  sp: ^0.0.1
 ```
 
 * 使用
